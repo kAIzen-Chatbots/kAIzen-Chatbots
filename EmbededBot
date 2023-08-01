@@ -60,9 +60,9 @@
             srcdoc="<body><script src='https://cdn.botpress.cloud/webchat/v0/inject.js'></script>
             <script>
               window.botpressWebChat.init({
-                  'composerPlaceholder': 'Chat with bot',
-                  'botConversationDescription': 'This chatbot was built surprisingly fast with Botpress',
-                  'botName': 'Name',
+                  'composerPlaceholder': 'Ask anything...',
+                  'botConversationDescription': 'This chatbot was built for demo purposes',
+                  'botName': 'kAIzen Bot',
                   'botId': '230244cc-ad3b-47bd-bbb4-5b1452fbffe1',
                   'hostUrl': 'https://cdn.botpress.cloud/webchat/v0',
                   'messagingUrl': 'https://messaging.botpress.cloud',
